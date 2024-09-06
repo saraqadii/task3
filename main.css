@@ -1,0 +1,36 @@
+.logo {
+    background-color: white;
+}
+.navbar {
+    margin:20px;
+}
+
+.navbarlist {
+    margin-left:800px;
+}
+
+.sara {
+    margin-left:60px;
+}
+.about {
+    background-color: blanchedalmond;
+}
+.header2 {
+    background-image:url(img2/proxy-image.jpg)
+}
+.buy {
+    background-color: cornsilk;
+}
+.div1 {
+    background-color: teal;
+}
+.div2 {
+    background-color: aquamarine;
+}
+
+.div3 { 
+    background-color: rgb(29, 241, 170);
+}
+.end {
+    background-color: brown;
+}
